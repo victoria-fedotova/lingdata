@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-27T06:56:53+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Виктория/Desktop/science.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./science.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:0197ed4d-0ecf-4528-bb9c-7fca0137d74d</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">22</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="3150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="6260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="6680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="11000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="11640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="22320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="22980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="26890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="27320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="28210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="28340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="36100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="36980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="41720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="42230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="51150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="52380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="61640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="62540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="65080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="65290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="73550"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="@vsf2004f" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@tav1977m" TIER_ID="text@tav1977m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>курс как вы / из распсания видели называется история науки/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>знач / соотвецна / ааа / сёдня мы с вами поговорим о том история чего собственно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>так / к сожалению нет возможности отдельный курс по историографии науки прочитать хотя / поверьте мне тема того заслуживает / особенно в свете / ааа / гм дискуссий по этому поводу которые идут последние двац триц лет //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>вот / причем идут они по нарастающей / да / то есть тема эта оч болезненная /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>ии / в общемм //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>там где-то ссс / восьмидесятых годов / двадцатого века иии / всё более более интенсивно да / так скыть / аа тема того эээм //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>собственно историю чё мы должны писать? что такое наука? где она начинается? где заканчивается?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>где в действительности проходят границы между научным и ненаучным знанием / даа вот эти вот собственно дискуссии уже лет тридцать сорок как не ослабевают // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>знач понятно что совершенно невозможно обсуждать историю науки / не навбросав хотя бы черновой вариант ответа на вопрос а собстна / наука то что такое? и историю чего мы пишем //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>значит соответственно сегодня я постараюсь вам очертить ну /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>мм / некоторый минимальный набор / оч схематично причём минимальный набор / сценариев / даа / аа / касатьно способа написания истории науки //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="@vsf2004f" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@tav1977m"
+        PARTICIPANT="@tav1977m" TIER_ID="transl@tav1977m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>this course / as you've seen on the schedule / is named the history of science //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>so / thereby / aah / today we're going to talk about the history of what exactly it is //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>the thing is that / unfortunately there's no such an opportunity to give a course about the historiography of science though / trust me this topic is worth it / especially when it comes to / aah / hmm discussions in this regard that have been held for the last twenty or thirty years //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>yeah / and the differences of the opinions keep rising / yeah / so this issue is very sensitive /</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>aand / well //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>it's started in kinda / nineteen eighties aand / it's kept being discussed more and more often yeah / so to say / ah the question was ehm //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>the history of what exactly should we write? what is science? where does it begin? where it ends?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>how do the scientific and non-scientific knowledges differ from each other / yeah these very issues haven't lost their relevance through the last thirty or even forty years //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>ok so it's obvious that it's impossible to discuss the history of science / without having at least a draft of the definition of / what science actually is and what is the thing we write the history of //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>so it means that today i'll try to give you well /</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>ehmm / some kind of a minimum set / that will be pretty sketchily by the way a minimum set of different ways of / yeah / aahh / of writing the history of science //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
